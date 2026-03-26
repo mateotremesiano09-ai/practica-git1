@@ -1,0 +1,2 @@
+Este es el contenido de archivo1
+Otra línea para archivo1
